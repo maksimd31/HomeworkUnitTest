@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b985a015-bbbc-4c07-a1f4-bc20fa8ab824" name="Changes" comment="homework v1.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b985a015-bbbc-4c07-a1f4-bc20fa8ab824" name="Changes" comment="homework v2">
+      <change afterPath="$PROJECT_DIR$/homework2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework2/vehicle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/homework2.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework2/homework2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework1" />
+        <entry key="$PROJECT_DIR$" value="homework1.1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework1.1",
+    "git-widget-placeholder": "homework2",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -159,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694601428047</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="homework v2">
+      <option name="closed" value="true" />
+      <created>1694965098883</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694965098883</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +190,7 @@
     <MESSAGE value="homework1.py version 2" />
     <MESSAGE value="homework v1" />
     <MESSAGE value="homework v1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework v1.1" />
+    <MESSAGE value="homework v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework v2" />
   </component>
 </project>
