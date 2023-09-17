@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b985a015-bbbc-4c07-a1f4-bc20fa8ab824" name="Changes" comment="one commit">
-      <change afterPath="$PROJECT_DIR$/semenar/seminar1.py" afterDir="false" />
-    </list>
+    <list default="true" id="b985a015-bbbc-4c07-a1f4-bc20fa8ab824" name="Changes" comment="homework1.py version 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,10 +37,31 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "homework1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Python tests in homework1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkUnitTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/homework/homework1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in homework1.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,11 +79,65 @@
       <option name="project" value="LOCAL" />
       <updated>1694442426979</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="one commit">
+      <option name="closed" value="true" />
+      <created>1694442624323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694442624323</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework1.py">
+      <option name="closed" value="true" />
+      <created>1694443730361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694443730361</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homework1.py version 1">
+      <option name="closed" value="true" />
+      <created>1694600672535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694600672535</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homework1.py version 1">
+      <option name="closed" value="true" />
+      <created>1694600894549</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694600894549</updated>
+    </task>
+    <task id="LOCAL-00006" summary="homework1.py version 2">
+      <option name="closed" value="true" />
+      <created>1694601018548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694601018548</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="one commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="one commit" />
+    <MESSAGE value="homework1.py" />
+    <MESSAGE value="homework1.py version 1" />
+    <MESSAGE value="homework1.py version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework1.py version 2" />
   </component>
 </project>
