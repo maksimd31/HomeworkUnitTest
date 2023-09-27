@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b985a015-bbbc-4c07-a1f4-bc20fa8ab824" name="Changes" comment="homework v5">
-      <change afterPath="$PROJECT_DIR$/homework5/task1test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework5/task2test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework5/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework5/readme.md" afterDir="false" />
+    <list default="true" id="b985a015-bbbc-4c07-a1f4-bc20fa8ab824" name="Changes" comment="homework v6">
+      <change afterPath="$PROJECT_DIR$/homework6/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6/test_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework6/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +35,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework4" />
+        <entry key="$PROJECT_DIR$" value="homework5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,10 +52,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework5",
+    "git-widget-placeholder": "homework6",
+    "last_opened_file_path": "/Users/imacson/Desktop/python_project/HomeworkUnitTest/homework6",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/homework6" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Python tests in Homework1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="HomeworkUnitTest" />
@@ -217,7 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695407204498</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="homework v5.v2">
+      <option name="closed" value="true" />
+      <created>1695408211714</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695408211714</updated>
+    </task>
+    <task id="LOCAL-00019" summary="homework v6">
+      <option name="closed" value="true" />
+      <created>1695832949737</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1695832949737</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +275,8 @@
     <MESSAGE value="homework v3.1" />
     <MESSAGE value="homework v4.1" />
     <MESSAGE value="homework v5" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework v5" />
+    <MESSAGE value="homework v5.v2" />
+    <MESSAGE value="homework v6" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework v6" />
   </component>
 </project>
