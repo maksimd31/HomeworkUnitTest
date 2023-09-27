@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b985a015-bbbc-4c07-a1f4-bc20fa8ab824" name="Changes" comment="homework v3.1">
-      <change afterPath="$PROJECT_DIR$/homework4/book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework4/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework4/Readme.md" afterDir="false" />
+    <list default="true" id="b985a015-bbbc-4c07-a1f4-bc20fa8ab824" name="Changes" comment="homework v5">
+      <change afterPath="$PROJECT_DIR$/homework5/task1test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework5/task2test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework5/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework5/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework3" />
+        <entry key="$PROJECT_DIR$" value="homework4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,7 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework4",
+    "git-widget-placeholder": "homework5",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -202,7 +201,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695385464286</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="homework v4.1">
+      <option name="closed" value="true" />
+      <created>1695393245739</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695393245739</updated>
+    </task>
+    <task id="LOCAL-00017" summary="homework v5">
+      <option name="closed" value="true" />
+      <created>1695407204498</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695407204498</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +242,8 @@
     <MESSAGE value="homework v2.2" />
     <MESSAGE value="homework v3" />
     <MESSAGE value="homework v3.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework v3.1" />
+    <MESSAGE value="homework v4.1" />
+    <MESSAGE value="homework v5" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework v5" />
   </component>
 </project>
